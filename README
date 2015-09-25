@@ -1,0 +1,4 @@
+Run:
+
+chmod a+x scraper.js
+./scraper.js --minRent 0 --maxRent 5000 --bedrooms 2 --bathrooms 2
