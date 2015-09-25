@@ -1,0 +1,17 @@
+{
+  "name": "avalon-apartment-scraper",
+  "version": "1.0.0",
+  "description": "An example module to illustrate the usage of a package.json",
+  "author": "Ritik Malhotra",
+  "main": "scraper.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ritikm/avalon-apartment-notifier"
+  },
+  "dependencies": {
+    "request": "*",
+    "underscore": "*",
+    "minimist": "*"
+  },
+  "license": "MIT"
+}
